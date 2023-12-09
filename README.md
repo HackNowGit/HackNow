@@ -58,7 +58,7 @@ Make sure you study each resource thoroughly so you can actually absorb all the 
 
 * [https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707](https://falconspy.medium.com/unofficial-oscp-approved-tools-b2b4e889e707)
 
-## Best Penetration Testing VMs
+## Recommended Penetration Testing VMs
 
 * Windows: [Commando VM](https://www.mandiant.com/resources/commando-vm-windows-offensive-distribution)
 * Linux: [Kali Linux](https://www.kali.org/)
